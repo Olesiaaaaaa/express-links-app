@@ -1,0 +1,11 @@
+﻿# Зависимости (установятся автоматически)
+node_modules/
+
+# Логи и окружение
+*.log
+.env
+.DS_Store
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
